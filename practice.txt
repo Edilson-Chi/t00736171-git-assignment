@@ -1,0 +1,1 @@
+In this activity I've learned many usefull git commands, solving merge issues and push requests.
